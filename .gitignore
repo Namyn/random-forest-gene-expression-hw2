@@ -1,0 +1,40 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# Large generated outputs
+*.pkl
+*.joblib
+*.sav
+
+# Optional: ignore generated figures if you can recreate them
+# figures/
+
+# Optional: ignore split datasets if you only want to keep original data
+# data/training_db.csv
+# data/verification_db.csv
